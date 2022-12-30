@@ -23,7 +23,7 @@ calss Examdemo{
 		return temp;	
 	}
 }
-class Exam{
+class Examdemoclass{
 	public static void main(String[] args) {
 		Examdemo t1=new Examdemo(3,35);
 		Examdemo  t2= new Examdemo(6,45);
